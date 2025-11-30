@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+pytesseract
+opencv-python
+Pillow
+numpy
+requests
+groq
